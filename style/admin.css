@@ -1,0 +1,36 @@
+div{
+    background-color: #0f1111;
+}
+
+
+/* css for footer */
+#foot1{
+    height: 300px;
+    background-color: #0f1111;
+    color: #e2e7e6;
+    display: flex;
+    justify-content: left;
+}
+#link1{
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 250px;
+}
+#link2{
+    margin-top: 80px;
+}
+#link3{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+#t2,#t3,#t4,#t5,#t6,#t7,#t8,#t1,#t9,#c2,#c3,#c4,#c5{
+    margin-top: 20px;
+}
+#t1,#c1{
+    font-size:larger;
+    font-weight: bolder;
+}
+#c2,#c3,#c4,#c5,#c1{
+    font-size: large;
+    /* font-weight: bold; */
+}

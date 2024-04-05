@@ -1,0 +1,65 @@
+
+/* header css */
+#menu-head{
+    height: 300px;
+    background-image: url(images/menu_head\ image.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#menu-head h1{
+    font-size: 35px;
+    color: #f1014d;
+    background-color: rgb(5, 5, 5);
+}
+#menu-head p{
+    font-size: 25px;
+    color: #f1014d;
+    background-color: rgb(5, 5, 5);
+    margin-top: 8px;
+}
+#menu{
+    position: absolute;
+    left: 13%;
+    width: 1000px;
+    /* border: 4px solid brown; */
+}
+.one{
+    margin: 3px;
+    height: 200px;
+    background-color: rgb(245, 70, 47);
+    border: 2px solid black;
+}
+
+#foot1{
+    height: 300px;
+    background-color: #0f1111;
+    color: #e2e7e6;
+    display: flex;
+    justify-content: left;
+}
+#link1{
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 250px;
+}
+#link2{
+    margin-top: 80px;
+}
+#link3{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+#t2,#t3,#t4,#t5,#t6,#t7,#t8,#t1,#t9,#c2,#c3,#c4,#c5{
+    margin-top: 20px;
+}
+#t1,#c1{
+    font-size:larger;
+    font-weight: bolder;
+}
+#c2,#c3,#c4,#c5,#c1{
+    font-size: large;
+    /* font-weight: bold; */
+}
