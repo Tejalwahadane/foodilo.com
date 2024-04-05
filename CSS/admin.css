@@ -1,0 +1,138 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* css for index.php */
+#menu-heading{
+    margin-top: 10px;
+}
+.col-4{
+    width: 17%;
+    background-color: rgb(124, 104, 196);
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.clearfix{
+    float: none;
+    clear: both;
+}
+
+.wrapper{
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+    /* display: flex;
+    justify-content: space-evenly; */
+}
+
+.tbl-full{
+    width: 100% ;
+}
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+table tr td{
+    /* border-bottom: 1px solid black; */
+    padding: 1%;
+    text-align: left;
+    font-size: 20px;
+}
+
+.btn-primary{
+    text-align: center;
+    margin: 10%;
+    padding: 10;
+    background-color: #091877;
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
+.btn-primary:hover{
+    background-color: #0f1111;
+    color: #e2e7e6;
+}
+
+.btn-secondary{
+    background-color: #51be22;
+    padding: 1%;
+    color: #e2e7e6;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-secondary:hover{
+    background-color: #badc58;
+}
+
+.btn-danger{
+    background-color: #eb4d4b;
+    padding: 1%;
+    color: #e2e7e6;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-danger:hover{
+    background-color: #ff7979;
+}
+
+/* css for add-admin */
+.tbl-add-admin{
+    width: 30%;
+}
+form{
+    padding: 1.7%;
+    height: 170px;
+    font-weight: bolder;
+    border: 5px solid #535c68;
+}
+.tbl-add-admin input{
+    padding-left: 15px;
+    font-size: x-large;
+}
+
+.tbl-add-admin tr td{
+    font-size: x-large;
+}
+
+/* css for delete-admin */
+.success{
+    color: #51be22;
+}
+
+.error{
+    color: #eb4d4b;
+}
+
+/* css for login.php */
+.login{
+    border: 3px solid grey;
+    width: 70%;
+    height: 460px;
+    margin: 10% auto;
+    padding: 2%;
+}
+
+
+/* css for footer */
+.footer {
+    background-color: #0f1111;
+    color: #e2e7e6;
+    height: 50px;
+}
+.footer p{
+    margin-top: 2px;
+}
+
+.add_admin_div{
+    width: 80%;
+    border: 2px solid black;
+}
