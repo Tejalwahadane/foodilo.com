@@ -11,27 +11,18 @@
           <div class="box">
               <img src="images/catering-img.jpg" alt="">
               <h2 class="h-secondary center">Food Catering</h2>
-              <p class="center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, culpa suscipit error
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et qui, repudiandae similique nam, recusandae quidem ab asperiores ex, aut fugit labore veritatis facere?
-                  sint delectus ab dolorum nam. Debitis facere, incidunt voluptates eos, mollitia voluptatem iste sunt
-                  voluptas beatae facilis labore, omnis sint quae eum.</p>
+              <p class="center">Foodilo.com caters to any occasion, big or small! We offer a stress-free experience with a wide menu variety, fresh ingredients, and flawless execution. From corporate gatherings to backyard BBQs, our customizable menus and competitive prices ensure delicious food for your event.  Browse sample menus online or contact our catering specialists to create your perfect celebration!</p>
           </div>
           <div class="box">
               <img src="images/bulk-img.jpeg" alt="">
               <h2 class="h-secondary center">Bulk Ordering</h2>
-              <p class="center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, culpa suscipit error
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde laudantium a incidunt animi ad, ab dignissimos vero? Unde numquam odit repudiandae perferendis nisi.
-
-                  sint delectus ab dolorum nam. Debitis facere, incidunt voluptates eos, mollitia voluptatem iste sunt
-                  voluptas beatae facilis labore, omnis sint quae eum.</p>
+              <p class="center">Need to feed a large crew? Foodilo.com offers hassle-free bulk ordering! Choose from our extensive menu at discounted prices. Simply tell us what you need and when, and leave the rest to us. Perfect for office lunches, parties, or any gathering. Bulk order online or contact us for a quote!</p>
           </div>
           <div class="box">
               <img src="images/delivery-image.avif" alt="">
               <h2 class="h-secondary center">Food Ordering</h2>
-              <p class="center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, culpa suscipit error
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus provident fugiat aliquam minima at explicabo. Earum eveniet quaerat, sunt molestias nesciunt quas! Quis.
-                  sint delectus ab dolorum nam. Debitis facere, incidunt voluptates eos, mollitia voluptatem iste sunt
-                  voluptas beatae facilis labore, omnis sint quae eum.</p>
+              <p class="center">
+Craving a delicious meal? Foodilo.com delivers! Browse our extensive menu and order food for delivery or pickup. We offer a variety of cuisines to satisfy any taste bud, perfect for a convenient lunch, satisfying dinner, or late-night treat. Order online and enjoy a hassle-free dining experience!</p>
           </div>
       </div>
   </section>
