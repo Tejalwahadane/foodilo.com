@@ -24,7 +24,6 @@
          <li class="item"><a href="<?php echo SITEURL; ?>categories.php">Menu</a></li>
          <li class="item"><a href="<?php echo SITEURL; ?>foods.php">Food-Search</a></li>
          <li class="item"><a href="<?php echo SITEURL; ?>about_us.php">About Us</a></li>
-         <li class="item"><a href="<?php echo SITEURL; ?>gallery.php">Gallery</a></li>
          <li class="item"><a href="<?php echo SITEURL; ?>contact.php">Contact</a></li>
       </ul>
    </nav>
